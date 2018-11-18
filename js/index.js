@@ -17,7 +17,7 @@ function checker() {
 
       tag.textContent = stars + " is a bad word!";
     } else {
-      tag.textContent = '"' + inputField + '"' + " is okay, boah.";
+      tag.textContent = '"' + inputField + '"' + " is not a swear word.";
     }
   }
 }
