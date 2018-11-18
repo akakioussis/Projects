@@ -1,4 +1,4 @@
-var swears = ["ass", "anus", "titties", "misthios", "gmod", "garrysmod", "g"];
+var swears = [];
 var tag = document.querySelector(".first");
 var tag2 = document.querySelector(".second");
 var tag3 = document.querySelector(".third");
